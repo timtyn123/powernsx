@@ -1,1 +1,1 @@
-# powernsx
+# powernsx scripts
